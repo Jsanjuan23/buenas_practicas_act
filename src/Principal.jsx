@@ -16,6 +16,9 @@ const Principal = () => {
 
             <h2 style={{ margin: '20px 0 10px', fontSize: '1.5em', fontWeight: 'bold' }}>Hobbies</h2>
             <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Mis Hobbies: [Tus Hobbies]</p>
+
+            <h2 style={{ margin: '20px 0 10px', fontSize: '1.5em', fontWeight: 'bold' }}>Series Favoritas</h2>
+            {/* Aquí añadirás información sobre tus series favoritas en los siguientes commits */}
           </div>
         </section>
       </div>
