@@ -8,7 +8,7 @@ const Principal = () => {
           <h1 style={{ margin: '0', fontSize: '2em', fontWeight: 'bold' }}>Mi Perfil</h1>
         </header>
 
-        <section style={{ display: 'flex', justifyContent: 'center', padding: '20px', backgroundColor: '#fff' }}>
+        <div style={{ display: 'flex', justifyContent: 'center', padding: '20px', backgroundColor: '#fff' }}>
           <div style={{ width: '600px', padding: '15px', borderRadius: '8px', boxShadow: '0 0 10px rgba(0, 0, 0, 0.1)' }}>
             <h2 style={{ margin: '0', fontSize: '1.5em', fontWeight: 'bold' }}>Información Personal</h2>
             <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Nombre Completo: [Tu Nombre]</p>
@@ -24,10 +24,15 @@ const Principal = () => {
                 Un profesor de química convertido en fabricante de metanfetaminas se asocia con un exalumno para asegurar el futuro financiero de su familia.
               </p>
               <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Actores Relevantes: Bryan Cranston, Aaron Paul</p>
+              <img
+                src="https://i.blogs.es/16e585/breaking-bad/1366_2000.jpg"
+                alt="Breaking Bad"
+                style={{ width: '100%', height: 'auto', borderRadius: '8px', marginTop: '10px' }}
+              />
             </div>
-            {/* Puedes agregar más series con actores relevantes en los siguientes commits */}
+    
           </div>
-        </section>
+        </div>
       </div>
     </body>
   );
