@@ -45,7 +45,7 @@ const Principal = () => {
             </div>
 
             <div>
-              <h3 style={{ margin: '20px 0 10px', fontSize: '1.2em', fontWeight: 'bold' }}>The Mandalorian</h3>
+              <h3 style={{ margin: '20px 0 10px', fontSize: '1.2em', fontWeight: 'bold' }}>The Mandalorian.</h3>
               <p style={{ margin: '0 0 10px', fontSize: '0.9em', fontStyle: 'italic' }}>
                 En el vasto universo de Star Wars, un cazarrecompensas solitario se embarca en misiones épicas mientras cuida a un misterioso niño llamado Grogu.
               </p>
@@ -56,7 +56,8 @@ const Principal = () => {
                 style={{ width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '20px' }}
               />
             </div>
-   
+    
+
           </div>
         </div>
       </div>
