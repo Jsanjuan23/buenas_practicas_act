@@ -56,7 +56,7 @@ const Principal = () => {
                 style={{ width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '20px' }}
               />
             </div>
-            {/* Puedes agregar más series con imágenes en los siguientes commits */}
+   
           </div>
         </div>
       </div>
