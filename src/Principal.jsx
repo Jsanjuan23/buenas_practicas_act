@@ -13,6 +13,9 @@ const Principal = () => {
             <h2 style={{ margin: '0', fontSize: '1.5em', fontWeight: 'bold' }}>Información Personal</h2>
             <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Nombre Completo: [Tu Nombre]</p>
             <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Semestre que Curso: [Tu Semestre]</p>
+
+            <h2 style={{ margin: '20px 0 10px', fontSize: '1.5em', fontWeight: 'bold' }}>Hobbies</h2>
+            <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Mis Hobbies: [Tus Hobbies]</p>
           </div>
         </section>
       </div>
@@ -21,4 +24,3 @@ const Principal = () => {
 };
 
 export default Principal;
-
