@@ -23,8 +23,9 @@ const Principal = () => {
               <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>
                 Un profesor de química convertido en fabricante de metanfetaminas se asocia con un exalumno para asegurar el futuro financiero de su familia.
               </p>
+              <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Actores Relevantes: Bryan Cranston, Aaron Paul</p>
             </div>
-      
+            {/* Puedes agregar más series con actores relevantes en los siguientes commits */}
           </div>
         </section>
       </div>
