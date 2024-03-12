@@ -10,7 +10,9 @@ const Principal = () => {
 
         <section style={{ display: 'flex', justifyContent: 'center', padding: '20px', backgroundColor: '#fff' }}>
           <div style={{ width: '600px', padding: '15px', borderRadius: '8px', boxShadow: '0 0 10px rgba(0, 0, 0, 0.1)' }}>
-        
+            <h2 style={{ margin: '0', fontSize: '1.5em', fontWeight: 'bold' }}>Información Personal</h2>
+            <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Nombre Completo: [Tu Nombre]</p>
+            <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Semestre que Curso: [Tu Semestre]</p>
           </div>
         </section>
       </div>
@@ -19,3 +21,4 @@ const Principal = () => {
 };
 
 export default Principal;
+
