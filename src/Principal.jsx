@@ -11,11 +11,11 @@ const Principal = () => {
         <div style={{ display: 'flex', justifyContent: 'center', padding: '20px', backgroundColor: '#fff' }}>
           <div style={{ width: '600px', padding: '15px', borderRadius: '8px', boxShadow: '0 0 10px rgba(0, 0, 0, 0.1)' }}>
             <h2 style={{ margin: '0', fontSize: '1.5em', fontWeight: 'bold' }}>Información Personal</h2>
-            <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Nombre Completo: [Tu Nombre]</p>
-            <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Semestre que Curso: [Tu Semestre]</p>
+            <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Nombre Completo: Jesus Sanjuan</p>
+            <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Semestre que Curso: Décimo Semestre</p>
 
             <h2 style={{ margin: '20px 0 10px', fontSize: '1.5em', fontWeight: 'bold' }}>Hobbies</h2>
-            <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Mis Hobbies: [Tus Hobbies]</p>
+            <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Mis Hobbies: Viajar, Leer, Jugar a videojuegos</p>
 
             <h2 style={{ margin: '20px 0 10px', fontSize: '1.5em', fontWeight: 'bold' }}>Series Favoritas</h2>
             <div>
