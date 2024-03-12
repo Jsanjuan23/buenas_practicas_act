@@ -30,7 +30,33 @@ const Principal = () => {
                 style={{ width: '100%', height: 'auto', borderRadius: '8px', marginTop: '10px' }}
               />
             </div>
-    
+            
+            <div>
+              <h3 style={{ margin: '20px 0 10px', fontSize: '1.2em', fontWeight: 'bold' }}>Stranger Things</h3>
+              <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>
+                Un grupo de niños en un pequeño pueblo descubre fenómenos paranormales y criaturas sobrenaturales mientras buscan a su amigo desaparecido.
+              </p>
+              <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Actores Relevantes: Millie Bobby Brown, Finn Wolfhard</p>
+              <img
+                src="https://www.fayerwayer.com/resizer/gZmzsRN9PG6JSk_9vGD97jFKZW8=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/SZNR4IXRVBG6DIN55H5KPYNU2Q.webp"
+                alt="Stranger Things"
+                style={{ width: '100%', height: 'auto', borderRadius: '8px', marginTop: '10px' }}
+              />
+            </div>
+
+            <div>
+              <h3 style={{ margin: '20px 0 10px', fontSize: '1.2em', fontWeight: 'bold' }}>The Mandalorian</h3>
+              <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>
+                En el vasto universo de Star Wars, un cazarrecompensas solitario se embarca en misiones épicas mientras cuida a un misterioso niño llamado Grogu.
+              </p>
+              <p style={{ margin: '0', fontSize: '1em', fontStyle: 'italic' }}>Actor Principal: Pedro Pascal</p>
+              <img
+                src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/09/mandalorian-2485773.jpg?tf=1200x"
+                alt="The Mandalorian"
+                style={{ width: '100%', height: 'auto', borderRadius: '8px', marginTop: '10px' }}
+              />
+            </div>
+            {/* Puedes agregar más series con imágenes en los siguientes commits */}
           </div>
         </div>
       </div>
